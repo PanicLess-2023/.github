@@ -1,16 +1,17 @@
 # Panic Attack Detection and Prediction Using AI and IoT Technology
 
-<div>
+<div
+  **Panicless** is a proposed model for Panic Attack detection and prediction using AI and IoT technologies, the system can be used through the mobile app.
+
+  **Panicless** has 2 meanings, Panic is tough, Less is to terminate that Panic.
+
+**Panic Disorder** was estimated to have a global prevalence of around **2-3%** in the general population.
 <img src="https://github.com/PanicLess-2023/.github/assets/77099631/c2c952ab-ccd9-46d5-86fb-822354e47b96" alt="our logo" align="right"/>
 </div>
 
 
 
-**Panicless** is a proposed model for Panic Attack detection and prediction using AI and IoT technologies, the system can be used through the mobile app.
 
-**Panicless** has 2 meanings, Panic is tough, Less is to terminate that Panic.
-
-**Panic Disorder** was estimated to have a global prevalence of around **2-3%** in the general population.
 
 ## Project Architecture
 ![Archtechiture](https://github.com/PanicLess-2023/.github/assets/77099631/1c9526e1-d2e6-464b-90fd-4e6f093172f1)
