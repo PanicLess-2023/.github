@@ -1,6 +1,6 @@
 # Panic Attack Detection and Prediction Using AI and IoT technology (PanicLess)
 
-![panicless](https://github.com/PanicLess-2023/.github/assets/77099631/362a673d-e3c5-4009-a93b-d099729fb017)
+![panicless](https://github.com/PanicLess-2023/.github/assets/77099631/3e495a44-18a4-4025-9423-f752b3ae95fe)
 
 **Panicless** is a proposed model for Panic Attack detection and prediction using AI and IoT technologies, the system can be used through the mobile app.
 
