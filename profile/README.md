@@ -1,6 +1,6 @@
 # Panic Attack Detection and Prediction Using AI and IoT technology  
 
-![](https://img.shields.io/badge/License-PanicLess-blue)![](https://img.shields.io/badge/Version-v1-blue)
+![](https://img.shields.io/badge/License-PanicLess-blue)![](https://img.shields.io/badge/Version-v1-blue)  
 
 ![panicless](https://github.com/PanicLess-2023/.github/assets/77099631/3e495a44-18a4-4025-9423-f752b3ae95fe)
 
@@ -22,12 +22,12 @@ Our system consists of two parts:
 
 This project built with:
 
-- [Arduino]([Arduino - Home](https://www.arduino.cc/)): Open-source electronic prototyping platform enabling users to create interactive electronic objects.
-- [Kotlin]([Kotlin Programming Language (kotlinlang.org)](https://kotlinlang.org/)): Is a versatile programming language that offers modern and expressive alternative to Java, we used it to build mobile app
-- [Django]([The web framework for perfectionists with deadlines | Django (djangoproject.com)](https://www.djangoproject.com/)): Web framework for building web applications using the Python, we use it to build backend
-- [Django REST Framework]([Home - Django REST framework (django-rest-framework.org)](https://www.django-rest-framework.org/)): Powerful and flexible toolkit for building Web APIs.
-- [scikit-learn]([scikit-learn: machine learning in Python — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/)): Simple and efficient tools for predictive data analysis
-- [pandas]([pandas - Python Data Analysis Library (pydata.org)](https://pandas.pydata.org/)): Is a fast, powerful, flexible and easy to use open source data analysis
+- [Arduino](https://www.arduino.cc/): Open-source electronic prototyping platform enabling users to create interactive electronic objects.
+- [Kotlin](https://kotlinlang.org/): Is a versatile programming language that offers modern and expressive alternative to Java, we used it to build mobile app
+- [Django](https://www.djangoproject.com/): Web framework for building web applications using the Python, we use it to build backend
+- [Django REST Framework](https://www.django-rest-framework.org/): Powerful and flexible toolkit for building Web APIs.
+- [scikit-learn](https://scikit-learn.org/stable/): Simple and efficient tools for predictive data analysis
+- [pandas](https://pandas.pydata.org/): Is a fast, powerful, flexible and easy to use open source data analysis
 
 
 
