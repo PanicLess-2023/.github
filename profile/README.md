@@ -31,5 +31,5 @@ This project built with:
 
 ## Live Demo
 
-<img src="https://github.com/mohameddwedar689/Travel-Tour-Website/assets/77099631/5445cb70-211d-440e-aca9-6e55a2f68df9" alt="qr-code" style="zoom: 33%;" />
+<img src="https://github.com/mohameddwedar689/Travel-Tour-Website/assets/77099631/5445cb70-211d-440e-aca9-6e55a2f68df9" alt="qr-code" width="200" height="200" />
 
