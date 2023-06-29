@@ -1,4 +1,6 @@
-# Panic Attack Detection and Prediction Using AI and IoT technology (PanicLess)
+# Panic Attack Detection and Prediction Using AI and IoT technology  
+
+![](https://img.shields.io/badge/License-PanicLess-blue)![](https://img.shields.io/badge/Version-v1-blue)
 
 ![panicless](https://github.com/PanicLess-2023/.github/assets/77099631/3e495a44-18a4-4025-9423-f752b3ae95fe)
 
@@ -15,6 +17,19 @@ Our system consists of two parts:
 - **Software(PanicLess)** : If the patient is experiencing a panic attack, the application takes over. It allows the patient to deal with the panic attack by starting an automatic  relaxation session, which helps them feel that they are not alone.  Additionally, the patient can call someone they trust who can help  them in the moment, also a **chatbot** designed to assist in the **Prediction** process of  determining whether a user is experiencing a panic disorder or not.
 
 ![Archtechiture](https://github.com/mohameddwedar689/Travel-Tour-Website/assets/77099631/9331e0e5-d6c4-4d23-a3b7-e6c9f67e1c89)
+
+## Built With
+
+This project built with:
+
+- [Arduino]([Arduino - Home](https://www.arduino.cc/)): Open-source electronic prototyping platform enabling users to create interactive electronic objects.
+- [Kotlin]([Kotlin Programming Language (kotlinlang.org)](https://kotlinlang.org/)): Is a versatile programming language that offers modern and expressive alternative to Java, we used it to build mobile app
+- [Django]([The web framework for perfectionists with deadlines | Django (djangoproject.com)](https://www.djangoproject.com/)): Web framework for building web applications using the Python, we use it to build backend
+- [Django REST Framework]([Home - Django REST framework (django-rest-framework.org)](https://www.django-rest-framework.org/)): Powerful and flexible toolkit for building Web APIs.
+- [scikit-learn]([scikit-learn: machine learning in Python — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/)): Simple and efficient tools for predictive data analysis
+- [pandas]([pandas - Python Data Analysis Library (pydata.org)](https://pandas.pydata.org/)): Is a fast, powerful, flexible and easy to use open source data analysis
+
+
 
 
 
