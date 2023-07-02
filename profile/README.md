@@ -1,6 +1,6 @@
 # Panic Attack Detection and Prediction Using AI and IoT technology  
 
-![](https://img.shields.io/badge/License-PanicLess-blue)![](https://img.shields.io/badge/Version-v1-blue)  
+![](https://img.shields.io/badge/License-MIT-blue)![](https://img.shields.io/badge/Version-v1-blue)  
 
 ![panicless](https://github.com/PanicLess-2023/.github/assets/77099631/3e495a44-18a4-4025-9423-f752b3ae95fe)
 
@@ -34,4 +34,3 @@ This project built with:
 <p align="center">
   <img src="https://github.com/mohameddwedar689/Travel-Tour-Website/assets/77099631/5445cb70-211d-440e-aca9-6e55a2f68df9" alt="qr-code" width="300" height="300"/>
 </p>
-
